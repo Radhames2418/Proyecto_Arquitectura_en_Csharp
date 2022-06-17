@@ -1,0 +1,26 @@
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.Properties.Resources.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.Properties.Resources.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CopyComplete
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb

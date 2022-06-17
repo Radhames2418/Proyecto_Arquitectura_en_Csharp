@@ -1,0 +1,32 @@
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb

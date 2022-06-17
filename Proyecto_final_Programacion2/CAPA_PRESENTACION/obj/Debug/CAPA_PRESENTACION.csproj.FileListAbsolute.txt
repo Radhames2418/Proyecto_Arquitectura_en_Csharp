@@ -1,0 +1,55 @@
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Login.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Edificio.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Aula.resources
+C:\Users\dell\source\repos\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Usuario.resources
+C:\Users\dell\source\repos\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Usuario.resources
+C:\Users\dell\source\repos\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Consulta.resources
+C:\Users\dell\source\repos\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Consulta.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Consulta.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Consulta.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Usuario.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Usuario.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Aula.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador_Edificio.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Administrador.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Login.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb

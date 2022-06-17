@@ -1,0 +1,18 @@
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.Properties.Resources.resources
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\source\repos\Proyecto_final_programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.exe.config
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.Properties.Resources.resources
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.exe
+C:\Users\dell\Desktop\ITLA\Cuatrimestre 5\Programacion 2\Proyecto Final\Proyecto_final_Programacion2\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb
